@@ -261,3 +261,7 @@ Repositorio GitHub
 Video Demostración
 
 (https://drive.google.com/file/d/1cZ4XJ0ZwszvjW7iYcePuLaxhEDAZ5kXC/view?usp=drivesdk)
+
+PDF
+
+https://drive.google.com/file/d/1tZ3nrV9dZpgfo_XhK25icG4cWEaIp0PH/view?usp=drivesdk
